@@ -1,0 +1,504 @@
+
+@media (min-width:991.98px) and (max-width:1200.98px){
+    .book {
+        margin-right: 45px;
+    }
+    .book a {
+        padding: 10px 15px;
+        font-size: 12px;
+        line-height: 0px;
+        margin-left: 8px;
+    }
+    .banner-content img{
+        padding-left: 0px;
+        top: 20%;
+        left: 40px
+    }
+    .banner-content h1 {
+        font-size: 70px;
+        padding-left: 38px;
+    }
+    .banner-content h2 {
+        font-size: 70px;
+        padding-left: 38px;
+    }
+    .main-sub {
+        margin-top: 74px;
+        margin-left: 20px;
+    }
+    .banner-form-submit button {
+        padding: 4px 35px;
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .solution-send a {
+        padding: 10px 12px;
+        font-size: 14px;
+    }
+    .solution-call a {
+        padding: 10px 12px;
+        font-size: 14px;
+    }
+    .avability-content p {
+        font-size: 11px;
+        padding-top: 18px;
+        transition: all linear .3s;
+    }
+}
+@media (min-width:768px) and (max-width:991.98px){
+/*=============================HOMEPAGE=============================*/
+.top-main{
+    margin-left: 130px;
+}
+.off{
+    display: none!important;
+}
+.topbar {
+    padding-bottom: 60px;
+}
+.navbar {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    left: 0;
+}
+.book {
+    margin-right: 40px;
+}
+.navbar-toggler-icon{
+    color: #fff;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    font-size: 16px;
+    margin: 0px -38px;
+}
+.navbar-expand-lg .navbar-nav .nav-link::before{
+    visibility: hidden!important;
+}
+
+/*=======banner part ============*/
+.banner-content h1 {
+    font-size: 45px;
+    padding-left: 0px;
+}
+.banner-content span {
+    font-size: 40px;
+}
+.banner-content h2 {
+    font-size: 40px;
+    padding-left: 0px;
+}
+.banner-content img {
+    display: none;
+}
+.py-5 {
+    padding-top: 1rem!important;
+    padding-bottom: 1rem!important;
+}
+.main-sub {
+    margin-top: 20px;
+}
+.banner-form-submit button {
+    padding: 4px 35px;
+    font-size: 16px;
+    line-height: 18px;
+}
+/*=======banner part ============*/
+/*=======choose part============*/
+.choose-content {
+    padding-bottom: 40px;
+}
+.box p {
+    padding: 0 120px;
+}
+.box {
+    margin-bottom: 20px;
+}
+/*======choose part=============*/
+/*===================*/
+/*=======provide section starts here=========*/
+#provide {
+    padding: 0 0 100px;
+}
+.provide-content h3 {
+    padding: 0px 0 30px;
+}
+.late{
+    padding-top: 40px;
+}
+#solution-pos {
+    top: -75px;
+}
+.solution-send-call{
+   padding-top: 20px;
+}
+
+/*=======provide section ends here=========*/
+/*=======avability section starts here=========*/
+.avability-content p {
+
+    font-size: 13px;
+}
+/*=======avability section ends here=========*/
+/*=======avability section ends here=========*/
+
+.useful h4 {
+    padding-top: 15px;
+}
+/*=============================HOMEPAGE=============================*/
+/*==========service page================*/
+#service-page .provide-main{
+    margin-bottom: 130px;
+}
+#service-page .fiet{
+    padding-top: 0;
+}
+/*=========service page=================*/
+/*==================================contact page=====================================*/
+ #contact .get p {
+    padding: 10px 63px;
+}
+/*=================================contact page======================================*/
+}
+@media (min-width:577px) and (max-width:767.98px){
+/*=============================HOMEPAGE=============================*/
+.off{
+    display: none!important;
+}
+.topbar {
+    padding-bottom: 60px;
+}
+
+.top-font i {
+    line-height: 40px;
+    margin-right: 20px;
+    font-size: 26px;
+}
+.book {
+    margin-right: 20px;
+}
+#menu {
+    margin-top: 0;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    font-size: 16px;
+    margin: 0px -38px;
+}
+.navbar-expand-lg .navbar-nav .nav-link::before{
+    visibility: hidden!important;
+}
+.navbar {
+    margin: 0 0;
+    width: 100%;
+    left: 0;
+    transform: translateY(-50%);
+}
+.navbar-toggler-icon{
+    color: #fff;
+}
+.book a {
+    padding: 8px 15px;
+    font-size: 16px;
+}
+.banner-content img {
+    display: none;
+}
+.banner-content h1 {
+    font-size: 45px;
+    padding-left: 0px;
+}
+.banner-content span {
+    font-size: 40px;
+}
+.banner-content h2 {
+    font-size: 40px;
+    padding-left: 0px;
+}
+.main-sub{
+    display: none;
+}
+.banner-inner-form{
+    display: none;
+}
+/*=======choose section starts here=========*/
+#choose {
+    padding: 25px 0;
+}
+.choose-content {
+    padding-bottom: 40px;
+}
+.choose-content h6 {
+    padding-bottom: 10px;
+}
+.mt-4 {
+    margin-top: 0!important;
+}
+.box {
+    margin-bottom: 20px;
+}
+.box p {
+    padding: 0 68px;
+}
+/*=======choose section ends here=========*/
+/*=======provide section starts here=========*/
+#provide {
+    padding: 0px 0 100px;
+}
+.provide-content h3 {
+    padding: 30px 0;
+}
+.late{
+    padding-top: 40px;
+}
+
+/*=======provide section ends here=========*/
+ /*=======solutions section starts here=========*/
+ #solution-pos {
+    top: -70px;
+}
+.solution-main {
+    padding: 70px;
+}
+.solution-content{
+    text-align: center!important;
+}
+.solution-content h4 {
+    line-height: 40px;
+}
+.solution-send-call{
+    display: block!important;
+}
+.solution-send a {
+    padding: 10px 15px;
+}
+.solution-send{
+    padding-top: 15px!important;
+    margin-right: 0!important;
+    
+}
+.solution-call{
+    padding-top: 30px!important;
+    
+}
+
+/*=======solutions section ends here=========*/
+/*=======avability section starts here=========*/
+.avability-main {
+    margin-bottom: 30px;
+}
+/*=======avability section ends here=========*/
+
+.useful h4 {
+    padding-top: 15px;
+}
+/*=============================HOMEPAGE=============================*/
+/*==========service page================*/
+    #service-page .provide-main{
+    margin-bottom: 70px;
+}
+    #service-page .fiet{
+    padding-top: 0;
+}
+    /*=========service page=================*/
+    /*=========service inner page=================*/
+    #domestic-page .more-domestic-services{
+    margin-bottom: 70px;
+}
+    /*=========service inner page=================*/
+     /*=============================contact us page====================================*/
+     #contact .banner-inner-form{
+        display: block;
+    }
+    #contact .banner-inner-form .tt{
+        margin-left: 0;
+    }
+    #contact .cras{
+        padding-bottom: 20px;
+    }
+    #contact .get p {
+        padding: 10px 0;
+    }
+    /*================================contact us page=================================*/
+            
+}
+@media (max-width:576.98px){
+
+/*=============================HOMEPAGE=============================*/
+.off{
+    display: none!important;
+}
+.topbar {
+    padding-bottom: 38px;
+}
+
+.top-font i {
+    line-height: 40px;
+    margin-right: 20px;
+    font-size: 26px;
+}
+.book {
+    margin-right: 10px;
+}
+
+
+#menu {
+    margin-top: 0;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    font-size: 14px;
+    margin: 0px -38px;
+}
+.navbar-expand-lg .navbar-nav .nav-link::before{
+    visibility: hidden!important;
+}
+.navbar {
+    margin: 0 0;
+    width: 100%;
+    left: 0;
+    transform: translateY(-50%);
+}
+.navbar-toggler-icon{
+    color: #fff;
+}
+
+
+.book a {
+    padding: 6px 11px;
+    font-size: 15px;
+}
+
+.banner-content img {
+    display: none;
+}
+.banner-content h1 {
+    font-size: 30px;
+    padding-left: 0px;
+}
+.banner-content span {
+    font-size: 25px;
+}
+.banner-content h2 {
+    font-size: 18px;
+    padding-left: 0px;
+}
+/*=======submit section starts here=========*/
+.main-sub{
+    display: none;
+}
+.banner-inner-form{
+    display: none;
+}
+/*=======submit section ends here=========*/
+/*=======choose section starts here=========*/
+#choose {
+    padding: 25px 0;
+}
+.choose-content {
+    padding-bottom: 40px;
+}
+.choose-content h6 {
+    padding-bottom: 10px;
+}
+.choose-content h3 {
+    font-size: 38px;
+}
+.mt-4 {
+    margin-top: 0!important;
+}
+.box {
+    margin-bottom: 20px;
+}
+/*=======choose section ends here=========*/
+/*=======provide section starts here=========*/
+#provide {
+    padding: 0px 0 100px;
+}
+.provide-content h3 {
+    padding: 30px 0;
+}
+.late{
+    padding-top: 40px;
+}
+
+/*=======provide section ends here=========*/
+/*=======solutions section starts here=========*/
+#solution-pos {
+    top: -70px;
+}
+.solution-main {
+    padding: 70px;
+}
+.solution-content{
+    text-align: center!important;
+}
+.solution-content h4 {
+    line-height: 40px;
+}
+.solution-send-call{
+    
+    display: block!important;
+}
+.solution-send a {
+    padding: 10px 15px;
+}
+.solution-send{
+    padding-top: 15px!important;
+    margin-right: 0!important;
+    
+}
+.solution-call{
+    padding-top: 30px!important; 
+}
+
+/*=======solutions section ends here=========*/
+/*=======provide section starts here=========*/
+.provide-content h3 {
+    font-size: 40px;
+}
+/*=======provide section ends here=========*/
+/*=======avability section starts here=========*/
+.avability-main {
+    margin-bottom: 30px;
+}
+/*=======avability section ends here=========*/
+.useful h4 {
+    padding-top: 15px;
+}
+/*=============================HOMEPAGE=============================*/
+/*=========breadcumb=================*/
+.bread-text h2 {
+font-size: 22px;
+}
+/*=========breadcumb=================*/
+
+/*==========service page================*/
+#service-page .provide-main{
+margin-bottom: 70px;
+}
+
+#service-page .fiet{
+padding-top: 0;
+}
+/*=========service page=================*/
+/*=========service inner page=================*/
+
+.more-domestic-services{
+margin-bottom: 70px;
+}
+/*=========service inner page=================*/
+ /*=============================contact us page====================================*/
+ #contact .banner-inner-form{
+    display: block;
+}
+#contact .banner-inner-form .tt{
+    margin-left: 0;
+}
+#contact .cras{
+    padding-bottom: 20px;
+}
+#contact .get p {
+    padding: 10px 0;
+}
+/*================================contact us page=================================*/
+
+    
+}
